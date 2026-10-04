@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <defs>
+    <linearGradient id="refGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="100%" stop-color="#022c22"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="420" rx="8" fill="url(#refGrad)"/>
+  <rect x="0" y="0" width="18" height="420" rx="4" fill="#011b14" opacity="0.6"/>
+  <line x1="18" y1="0" x2="18" y2="420" stroke="#065f46" stroke-width="1.5"/>
+  <rect x="36" y="32" width="236" height="6" rx="3" fill="url(#goldGrad)"/>
+  <text x="36" y="70" fill="#a7f3d0" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="2">OBJECT TECHNOLOGY SERIES</text>
+  <text x="36" y="125" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="800">Refactoring</text>
+  <text x="36" y="165" fill="#6ee7b7" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500">Improving the Design</text>
+  <text x="36" y="185" fill="#6ee7b7" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500">of Existing Code</text>
+  <rect x="36" y="225" width="228" height="80" rx="6" fill="#042f24" stroke="#059669" stroke-width="1"/>
+  <text x="50" y="255" fill="#d1fae5" font-family="monospace" font-size="13">extractMethod()</text>
+  <text x="50" y="278" fill="#34d399" font-family="monospace" font-size="13">&gt;&gt; inlineVariable()</text>
+  <rect x="36" y="350" width="236" height="1" fill="#065f46"/>
+  <text x="36" y="380" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">Martin Fowler</text>
+  <text x="36" y="398" fill="#6ee7b7" font-family="system-ui, -apple-system, sans-serif" font-size="11">With contributions by Kent Beck</text>
+</svg>

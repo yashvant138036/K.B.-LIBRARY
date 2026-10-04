@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <defs>
+    <linearGradient id="pragGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#2e1065"/>
+    </linearGradient>
+    <linearGradient id="violetGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="420" rx="8" fill="url(#pragGrad)"/>
+  <rect x="0" y="0" width="18" height="420" rx="4" fill="#1b063d" opacity="0.6"/>
+  <line x1="18" y1="0" x2="18" y2="420" stroke="#5b21b6" stroke-width="1.5"/>
+  <rect x="36" y="32" width="236" height="6" rx="3" fill="url(#violetGrad)"/>
+  <text x="36" y="70" fill="#ddd6fe" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="2">20TH ANNIVERSARY EDITION</text>
+  <text x="36" y="115" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="800">The Pragmatic</text>
+  <text x="36" y="148" fill="#f472b6" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="800">Programmer</text>
+  <text x="36" y="185" fill="#e9d5ff" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="400">Your Journey To Mastery</text>
+  <circle cx="150" cy="265" r="45" fill="#3b0764" stroke="#c084fc" stroke-width="2" stroke-dasharray="4,4"/>
+  <text x="150" y="272" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" text-anchor="middle">DRY</text>
+  <rect x="36" y="350" width="236" height="1" fill="#5b21b6"/>
+  <text x="36" y="380" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600">Andrew Hunt, David Thomas</text>
+  <text x="36" y="398" fill="#c084fc" font-family="system-ui, -apple-system, sans-serif" font-size="11">Addison-Wesley Professional</text>
+</svg>
